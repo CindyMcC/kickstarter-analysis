@@ -9,7 +9,7 @@ We are looking at data on fundraising for theater productions to determine wheth
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-Funding campaigns started in May, June, or July had the highest chance of a successful outcome.  May had the highest number of launches and successes.  November and December had the fewest total new launches and January had the most canceled. An overview of the analysis can be found [here.] (resources/Theater_Outcomes_vs_Launch.png)
+Funding campaigns started in May, June, or July had the highest chance of a successful outcome.  May had the highest number of launches and successes.  November and December had the fewest total new launches and January had the most canceled. An overview of the analysis can be found ![here] (resources/Theater_Outcomes_vs_Launch.png).
 The data combined all campaigns with a parent type of theater, not considering the subcategory type or the goal amount.  Therefore, a project with a $1000 goal has the same final weight as one with a $100,000 goal.  An analysis based on launch date and funding amount may provide a clearer picture of successful timeframes for smaller or larger projects.
 
 ### Analysis of Outcomes Based on Goals
